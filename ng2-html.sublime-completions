@@ -1,5 +1,9 @@
 {
 	"scope": "text.html meta.tag",
 	"completions": [
+		{ "trigger": "*ngFor", "contents": "*ngFor=\"let ${1:item} of ${2:list}\" "}
+		{ "trigger": "*ngIf", "contents": "*ngIf=\"${1:condition}\" "}
+		{ "trigger": "ngModel", "contents": " [ngModel]=\"${1:model}\" "}
+		{ "trigger": "routerLink", "contents": " [routerLink]=\"['${1:RouteName}']\" "}
 	]
 }
