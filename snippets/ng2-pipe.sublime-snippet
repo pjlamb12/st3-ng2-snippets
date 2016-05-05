@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+import { Pipe, PipeTransform } from '@angular/core';
+
+@Pipe({
+	name: '${1:pipeName}'
+})
+export class ${2:PipeName}Pipe implements PipeTransform {
+	transform(value: any, args: any[]): any {
+		if(value) {
+			$0
+		} else {
+			return '';
+		}
+	}
+}
+	]]></content>
+	<tabTrigger>ng2-pipe</tabTrigger>
+	<scope>source.ts,source.tsx</scope>
+	<description>Angular 2 Pipe Snippet</description>
+</snippet>
