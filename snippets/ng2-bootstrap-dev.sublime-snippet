@@ -10,6 +10,6 @@ bootstrap(${AppComponent})
 $0
 	]]></content>
 	<tabTrigger>ng2-bootstrap-dev</tabTrigger>
-	<scope>source.ts,source.tsx</scope>
+	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Development Bootstrap Snippet</description>
 </snippet>

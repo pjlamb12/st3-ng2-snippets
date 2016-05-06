@@ -5,6 +5,6 @@
 ])
 	]]></content>
 	<tabTrigger>ng2-routes</tabTrigger>
-	<scope>source.ts,source.tsx</scope>
+	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Routes Snippet</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-{ path: '/${1:path}', component: ${2:Component}, name: '${2:Component}' }
+{ path: '/${1:path}', component: ${2:Component} }
 	]]></content>
 	<tabTrigger>ng2-route-definition</tabTrigger>
-	<scope>source.ts,source.tsx</scope>
+	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Route Definition Snippet</description>
 </snippet>
