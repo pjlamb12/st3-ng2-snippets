@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-currency:'{1:USD}':true:'1.2-2'$0]]></content>
+currency:'${1:USD}':true:'1.2-2'$0]]></content>
 	<tabTrigger>ngCurrency</tabTrigger>
 	<scope>text.html</scope>
 	<description>Angular 2 Currency Pipe Snippet</description>
