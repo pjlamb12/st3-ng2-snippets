@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 *ngFor="let ${1:item} of ${2:list}"$0]]></content>
-	<tabTrigger>*ngFor</tabTrigger>
+	<tabTrigger>ngFor</tabTrigger>
 	<scope>text.html meta.tag</scope>
 	<description>Angular 2 ngFor Snippet</description>
 </snippet>
