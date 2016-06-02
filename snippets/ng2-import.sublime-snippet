@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-import { ${2:Module} } from '${1:path/to/module'}$0]]></content>
+import { ${2:Module} } from '${1:path/to/module}'$0]]></content>
 	<tabTrigger>ng2-import</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Import Snippet</description>
