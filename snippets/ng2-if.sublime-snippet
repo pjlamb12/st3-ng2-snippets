@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 *ngIf="${1:condition}"$0]]></content>
-	<tabTrigger>ngIf</tabTrigger>
+	<tabTrigger>*ngIf</tabTrigger>
 	<scope>text.html meta.tag</scope>
 	<description>Angular 2 ngIf Snippet</description>
 </snippet>
