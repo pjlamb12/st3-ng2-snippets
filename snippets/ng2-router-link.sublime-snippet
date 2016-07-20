@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-[routerLink]="['${1:Component}']"]]></content>
+[routerLink]="['/${1:path}']"]]></content>
 	<tabTrigger>routerLink</tabTrigger>
 	<scope>text.html meta.tag</scope>
 	<description>Angular 2 routerLink Snippet</description>
