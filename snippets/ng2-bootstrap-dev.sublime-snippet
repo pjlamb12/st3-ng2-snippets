@@ -7,8 +7,7 @@ import { ${1:AppComponent} } from './${2:name}.component';
 bootstrap(${AppComponent})
 	.then(success => console.log(`Bootstrap success`))
 	.catch(error => console.log(error));
-$0
-	]]></content>
+$0]]></content>
 	<tabTrigger>ng2-bootstrap-dev</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Development Bootstrap Snippet</description>

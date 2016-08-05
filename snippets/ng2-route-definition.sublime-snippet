@@ -1,8 +1,11 @@
 <snippet>
 	<content><![CDATA[
-{ path: '${1:path}', component: ${2:Component} }
-	]]></content>
-	<tabTrigger>ng2-route-definition</tabTrigger>
+ngOnChanges() {
+	$0
+}
+}
+]]></content>
+	<tabTrigger>ng2-on-changes</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
-	<description>Angular 2 Route Definition Snippet</description>
+	<description>Angular 2 ngOnChanges Snippet</description>
 </snippet>

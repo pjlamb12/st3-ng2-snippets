@@ -18,8 +18,7 @@ import 'rxjs/Rx';
 export class AppComponent {
 	constructor() {}
 	$0
-}
-	]]></content>
+}]]></content>
 	<tabTrigger>ng2-root-component</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Root Component Snippet</description>

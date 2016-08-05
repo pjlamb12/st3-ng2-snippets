@@ -13,8 +13,7 @@ export class ${3:ComponentName}Component implements OnInit {
 	ngOnInit() {
 		$0
 	}
-}
-	]]></content>
+}]]></content>
 	<tabTrigger>ng2-component</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Component Snippet</description>

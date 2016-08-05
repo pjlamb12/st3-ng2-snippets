@@ -4,8 +4,7 @@ import { RouterConfig } from '@angular/router';
 
 export const ${1:component}Routes: RouterConfig = [
 	{ path: '', component: ComponentName }
-]
-	]]></content>
+] ]]></content>
 	<tabTrigger>ng2-router-config</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Router Config Snippet</description>

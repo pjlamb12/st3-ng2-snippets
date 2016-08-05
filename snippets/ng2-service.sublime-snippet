@@ -6,8 +6,7 @@ import { Injectable } from '@angular/core';
 export class ${1:ServiceName}Service {
 	$0
 	constructor() {}
-}
-	]]></content>
+}]]></content>
 	<tabTrigger>ng2-service</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Service Snippet</description>

@@ -10,8 +10,7 @@ enableProdMode();
 bootstrap(${AppComponent})
 	.then(success => console.log(`Bootstrap success`))
 	.catch(error => console.log(error));
-$0
-	]]></content>
+$0]]></content>
 	<tabTrigger>ng2-bootstrap-prod</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Production Bootstrap Snippet</description>

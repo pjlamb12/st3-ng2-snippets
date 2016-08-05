@@ -13,8 +13,7 @@ export class ${2:PipeName}Pipe implements PipeTransform {
 			return '';
 		}
 	}
-}
-	]]></content>
+}]]></content>
 	<tabTrigger>ng2-pipe</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
 	<description>Angular 2 Pipe Snippet</description>
