@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+let headers = new Headers();
+headers.append('Content-Type', 'application/json')
+
+return this.${1:http}.post(`${2:url}`, JSON.stringify(${3:data}), { headers })
+	.map((res: Response) => res.json());$0]]></content>
+	<tabTrigger>ng2-http-post</tabTrigger>
+	<scope>source.ts,source.tsx,source.js</scope>
+	<description>Angular 2 HTTP Post Snippet</description>
+</snippet>
